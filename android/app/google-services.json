@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233860587621",
+    "project_id": "heddinmind",
+    "storage_bucket": "heddinmind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233860587621:android:982dcc113175c4c09a668c",
+        "android_client_info": {
+          "package_name": "com.example.hiddenmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233860587621-49123571ttof135tdge46on5onoii4sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZ0RabpVykLgpYtJrJzSVNDNmiaOj8Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233860587621-49123571ttof135tdge46on5onoii4sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>233860587621-4k5an8cg4kl2quk900p6hj90rc986j32.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.233860587621-4k5an8cg4kl2quk900p6hj90rc986j32</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDt1D2bo5HT6LBHOE0MHunY-WcdisqutTk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>233860587621</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hiddenmind</string>
+	<key>PROJECT_ID</key>
+	<string>heddinmind</string>
+	<key>STORAGE_BUCKET</key>
+	<string>heddinmind.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:233860587621:ios:d0a4a827c7dd0c029a668c</string>
+</dict>
+</plist>
